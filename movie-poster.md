@@ -68,18 +68,20 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt: The characters from the Six of Crows are in the middle, (Kaz, Inej, Jesper, Matthias, Nina, and Wylan) make all of them look young. Add crows flying around. There seems to be chaos going on around them. 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked: It did exactly as it was told to do  
+- **What didn't work: The characters do not look accurate to themselves in the book, and there is a random lightning bolt  
+- **What I'll change for next attempt: I will add more descriptors of the characters  
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt: Create the 6 main characters from six of crows. Kaz Brekker is in the middle, wearing a nice vest and a cane in his hand. To his right is Inej, she is small, brown-skinned, and has daggers clearly sticking out from her belt. To Kaz's left is Jesper, he is tall and lanky, and is wearing two guns on his belt. To the right of Inej is Nina, who is rounder, and have her hands in front of her doing something fancy. To the left of Jesper is Matthias, who is huge and blond, and wearing a big fur coat. To Matthias's left is Wylan, who has a sack of potions spilling out of his bag, and has nerdy goggles on his head.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+ 
+
+- **What worked:The descriptors made the characters look more similar to them in real life.  
+- **What didn't work: Jesper looks like a cowboy for some reason.  
+- **What I'll change for next attempt: I am going to focus on the background more.  
 
 ---
 
