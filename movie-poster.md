@@ -29,36 +29,36 @@ At each step, save and commit your work in GitHub Desktop.
 
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
-**Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+**Your Movie Choice:   
+- **Movie Title: Six of Crows
+- **Why I chose this movie: I chose this movie because the characters are so interesting, even if the plot is kind of weak.
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion: Confidence in the eye of doom  
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element: Crows  
+- **Why this element: They call themselves the six of crows, and crows symbolize death, which is something the characters are all familiar with.
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid: Don't put them in the ice court yet.  
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s): Black  
+- **Accent color(s): Snow-white 
+- **Overall mood:** A black and white poster old themed poster 
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
 - [ ] Wide shot (landscape/setting)  
 - [ ] Medium shot (full figure)  
 - [ ] Object/symbol centered  
-- [ ] Character collage  
+- [x] Character collage  
 
-- **Focal point description:**  
+- **Focal point description: I want the focus to be on Kaz Brekker, who is the main character.   
 
 ---
 
