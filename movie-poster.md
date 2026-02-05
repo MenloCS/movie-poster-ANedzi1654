@@ -103,8 +103,7 @@ Keep refining. Try at least two more meaningfully different directions.
 - **What worked: 5 of the characters looked great  
 - **What didn't work: They forgot about Nina.  
 
-**Final AI Image Selected:** (Which attempt? Why?) Number 1 because all the characters were there, as well as the crows, with a chaotic background, which is  
-
+**Final AI Image Selected:** (Which attempt? Why?) Number 2 because the 4 characters that were there looked accurate, and the title was in the photo.
 ---
 
 ## Step 4: Photoshop Modifications
