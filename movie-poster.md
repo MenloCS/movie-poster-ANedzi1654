@@ -91,19 +91,19 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:Create a background of a tall, black bar with the lights shining through the window. It has a rickety gate that Says the crow club, with a crow sitting on the gate. Next to it is a  neon green bar, with crows sitting on the top of it.  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked: The crow club was accurate  
+- **What didn't work:The second bar is neon, and not an actual building, and the crows are out of proportion.  
+- **What I'll change for next attempt:I'll take out the second bar, as it is not super important to the story.  
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:Create the 6 main characters from six of crows. Kaz Brekker is in the middle, wearing a nice vest and a cane in his hand, and wearing black gloves. To his right is Inej, she is small, brown-skinned, and has daggers clearly sticking out from her belt. To Kaz's left is Jesper, he is tall and lanky, and is wearing two guns on his belt. He is wearing a black and beige coat, and no hat. He is also darker skinned, with dark brown hair. To the right of Inej is Nina, who is rounder, and have her hands in front of her doing something fancy. She does not have any weapons. To the left of Jesper is Matthias, who is huge and blond, and wearing a fur coat over his shoulders. To Matthias's left is Wylan, who has a sack of potions spilling out of his bag, and has nerdy goggles on his head. Add crows flying around. There seems to be chaos going on around them.  
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked: 5 of the characters looked great  
+- **What didn't work: They forgot about Nina.  
 
-**Final AI Image Selected:** (Which attempt? Why?)  
+**Final AI Image Selected:** (Which attempt? Why?) Number 1 because all the characters were there, as well as the crows, with a chaotic background, which is  
 
 ---
 
